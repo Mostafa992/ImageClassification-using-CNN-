@@ -1,2 +1,2 @@
 # ImageClassification-using-CNN-
-This is a 10 class image classification using CNN 
+This is a CNN 10 classes image classification using Google Colab  
